@@ -16,7 +16,7 @@ Siempre estoy buscando nuevos desafíos y aprendiendo nuevas tecnologías.
 * **[Colorfull Bot](https://colorfull.help)**
     * ![Colorfull Bot](https://cdn.colorfull.help/colorfull.png)
 * **[RecoBeat (Recomendador de canciones)](https://recobeat.nysr.host)**
-    * ![RecoBeat](https://cdn.colorfull.help/recobeat.png)
+    * ![RecoBeat](https://cdn.colorfull.help/Recobeat.png)
 * **[Comunidad de Discord](https://discord.gg/negrolandia)**
     * ![Comunidad de Discord](https://statics.memondo.com/p/s1/crs/2023/12/CR_1299626_b48482fbd5df4dc29c142f4f3507e4fd_bienvenidos_thumb_fb.jpg?cb=7330862)
 
