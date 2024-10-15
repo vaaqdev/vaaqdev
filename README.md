@@ -1,4 +1,4 @@
-## Buenas.
+## ¡Hola !
 
 Soy un programador de 16 años apasionado por el desarrollo de proyectos. Me encanta crear de todo, desde bots de Discord y servidores de Minecraft hasta proyectos más pequeños. 
 
@@ -9,16 +9,16 @@ Soy un programador de 16 años apasionado por el desarrollo de proyectos. Me enc
 * **CSS**
 * **Python**
 
-Siempre estoy buscando nuevos desafíos y aprendiendo nuevas tecnologías.
+Siempre estoy buscando nuevos desafíos y aprendiendo nuevas tecnologías. ¡No dudes en echar un vistazo a mis proyectos!
 
 **Algunos de mis proyectos:**
 
 * **[Colorfull Bot](https://colorfull.help)**
-    * ![Colorfull Bot](https://cdn.colorfull.help/colorfull.png)
+    * ![Colorfull Bot](https://cdn.colorfull.help/colorfull.png) **width="100"**
 * **[RecoBeat (Recomendador de canciones)](https://recobeat.nysr.host)**
-    * ![RecoBeat](https://cdn.colorfull.help/Recobeat.png)
+    * ![RecoBeat](https://cdn.colorfull.help/Recobeat.png) **width="100"**
 * **[Comunidad de Discord](https://discord.gg/negrolandia)**
-    * ![Comunidad de Discord](https://statics.memondo.com/p/s1/crs/2023/12/CR_1299626_b48482fbd5df4dc29c142f4f3507e4fd_bienvenidos_thumb_fb.jpg?cb=7330862)
+    * ![Comunidad de Discord](https://statics.memondo.com/p/s1/crs/2023/12/CR_1299626_b48482fbd5df4dc29c142f4f3507e4fd_bienvenidos_thumb_fb.jpg?cb=7330862) **width="100"**
 
 
 ¡Espero que disfrutes explorando mi perfil! 
