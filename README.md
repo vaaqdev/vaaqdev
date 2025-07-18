@@ -15,5 +15,5 @@ Siempre estoy buscando nuevos desafíos y aprendiendo nuevas tecnologías. No du
 
 * **[Colorfull Bot](https://colorfull.vaaq.dev/)**
 * **[Comunidad de Discord](https://discord.gg/negrolandia)**
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeozdev&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeozdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaaqdev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaqdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
